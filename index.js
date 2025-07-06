@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 const allowedSenders = [
-  "972501234567@c.us",
+  "972587244521@c.us",
   "972123456789-111111@g.us"
 ];
 
